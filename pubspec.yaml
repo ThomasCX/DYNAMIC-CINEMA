@@ -1,0 +1,200 @@
+name: dynamic_cinema
+description: A concession ordering app.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0" #">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  page_transition: '^1.0.9'
+  smooth_star_rating: '1.0.2'
+  # dio: ^3.0.7 #Enables connection via webview for phpMyAdmin
+  html: ^0.14.0+3
+  fluttertoast: ^3.1.3 #Implements toast 
+  http: ^0.12.0+2
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  search_widget: ^1.0.0 #Includes search function
+  flutter_web_browser: ^0.11.0
+  rflutter_alert: ^1.0.3 #Implements popup windows
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.3" #Enables one to change the icon of the app launcher
+
+flutter_icons:
+  image_path: "images/appicon.jpg"
+  android: true #"launcher_icon" 
+  ios: true
+  
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # Adds assets to the application
+  assets:
+  #Main
+   - images/welcome.png
+   - images/background.png
+   #Combos tab 
+   #Popcorn section
+   - images/pcdrinkandnuggets.jpg
+   - images/pcdrinkmmcombo.jpeg
+   - images/pcdrinksnuggetsandfries.jpeg
+   - images/pcdrinktoycombo.jpeg
+   - images/pcjumbo.jpg  
+   - images/pcjumboanddrinks.jpg
+   - images/pclgdrinksandhelmet.jpeg
+   - images/pcquadret.png
+   - images/pcreganddrink.jpeg
+   - images/pcreganddrinks.jpeg
+   - images/pcsmldrink.jpeg
+
+   #Hotdog section
+   - images/hdandfries.jpeg
+   - images/hddrinkandpatties.jpeg
+   - images/hdfriesanddrink.jpeg
+   - images/hdfritosanddrink.jpeg
+   - images/hdlaysanddrink.jpg
+   - images/hdsandpizza.jpeg
+   - images/hdsfriesanddrink.jpeg
+   - images/hdsdouble.jpeg
+   - images/hdstriple.jpeg
+
+   #Meal section
+   - images/baconandcheeseburger.png
+   - images/burgeranddrink.jpg
+   - images/burgerdrinkandfries.jpeg
+   - images/cdpoutine.jpg
+   - images/cheesydish.jpg
+   - images/fishcakes.png
+   - images/pizzaslice.jpg
+   - images/pizzasliceandsalad.jpeg
+   - images/pizzaslicesanddrink.jpg
+   - images/tacosandnachos.jpg
+   - images/tacoscombo.jpg
+      
+
+   #Confictionery tab
+   - images/butterfinger.jpeg
+   - images/cakeslice.jpeg
+   - images/cheetos.jpeg
+   - images/chipsahoy.jpeg
+   - images/chococvrdraisin.jpeg
+   - images/dots.jpeg
+   - images/doughnut.jpeg
+   - images/fritos.jpeg
+   - images/gummybears.jpeg
+   - images/herseys.jpeg
+   - images/kisscakes.jpeg
+   - images/kitkat.jpeg
+   - images/nerds.jpeg
+   - images/nuggles.jpeg
+   - images/oreo.jpeg
+   - images/reesepieces.jpeg
+   - images/skittles.jpeg
+   - images/starburst.jpeg
+   - images/snickers.jpeg
+   - images/twix.jpeg
+   - images/welchs.jpeg
+
+   #Drinks tab
+   - images/briskicedtea.jpeg
+   - images/clearlatte.jpeg
+   - images/cocacolabttl.jpeg
+   - images/cocacolacan.png
+   - images/coffee.jpeg
+   - images/corona.jpeg
+   - images/frappuccino.png
+   - images/fruitjuice.jpeg
+   - images/gatorade.jpeg
+   - images/greygoosevodka.jpeg
+   - images/heavenhill.jpeg
+   - images/hunterbttlecider.jpeg
+   - images/lemonadejuice.jpeg
+   - images/lgdrink.jpeg
+   - images/meddrink.jpeg
+   - images/pepsi.jpeg
+   - images/skittleshake.jpeg
+   - images/smldrink.jpeg
+   - images/snapple.jpeg
+   - images/sprite.jpeg
+   - images/tazoicedgreentea.jpeg
+   - images/vodka.png
+   - images/water.jpeg
+   - images/weetabix.jpeg
+   - images/wine.png
+
+
+
+
+
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-Medium.ttf
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 700
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico.ttf
+    - family: Fryo
+      fonts:
+        - asset: fonts/DynamicCinema.ttf
+
+
+        
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages

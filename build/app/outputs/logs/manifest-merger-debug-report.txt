@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:fluttertoast] /home/sherida/Downloads/dynamic_cinema/build/fluttertoast/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:keyboard_visibility] /home/sherida/Downloads/dynamic_cinema/build/keyboard_visibility/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_web_browser] /home/sherida/Downloads/dynamic_cinema/build/flutter_web_browser/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/efa49d95c3528ddf73d8a2c195364473/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/07b750e5df60bfbb4592122d9ff5dec7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/07059218080f49b06acddf0c27a458bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5048d7fa9dc6d6638abb7906e08cc492/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0dbae19cacbb8cbb9e6d591903f04a5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/726aa04baae1397ab7346ac3e1420489/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/971a7eb30b872643526a7fb33266e126/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a65f084431e90327dfed5b2fb7a573ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/61cd9976fd366bc509438a73904af5e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/34b51f5927c06542a7e704c181d5e93a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/11048f3a53ee358693a8351739c9a92e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/02b196065203afd7d51adbeded4ff5bf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/75001e6c440bedd45cc32aec76320511/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b07b418a20706bc1f58fbbdb06e5097/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/8ba2fced3a2363f6806e1d4c1779e81b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a3a650d30eb3c3f8ab66f0feaadf4649/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/766b1646fd8533d938e195b6555f2362/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/28628cdf1595ecc92e36948d5746283c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/12ed70bc27e567e59ee0354bdefade2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3ce59b42f91d491a03ce0942451254a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6ddf26efc6b8ddf2972d353315ea561f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f239289009657f8f4b1b412257135cd2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/476ade885b424f58836b30ddbf8f2136/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [androidx.core:core:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/02b196065203afd7d51adbeded4ff5bf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/02b196065203afd7d51adbeded4ff5bf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b07b418a20706bc1f58fbbdb06e5097/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b07b418a20706bc1f58fbbdb06e5097/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/02b196065203afd7d51adbeded4ff5bf/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:11:9-39
+	android:icon
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.fryo.MainActivity
+ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml
+MERGED from [:fluttertoast] /home/sherida/Downloads/dynamic_cinema/build/fluttertoast/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /home/sherida/Downloads/dynamic_cinema/build/fluttertoast/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:keyboard_visibility] /home/sherida/Downloads/dynamic_cinema/build/keyboard_visibility/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:keyboard_visibility] /home/sherida/Downloads/dynamic_cinema/build/keyboard_visibility/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_web_browser] /home/sherida/Downloads/dynamic_cinema/build/flutter_web_browser/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter_web_browser] /home/sherida/Downloads/dynamic_cinema/build/flutter_web_browser/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/efa49d95c3528ddf73d8a2c195364473/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/efa49d95c3528ddf73d8a2c195364473/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/07b750e5df60bfbb4592122d9ff5dec7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/07b750e5df60bfbb4592122d9ff5dec7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/07059218080f49b06acddf0c27a458bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/07059218080f49b06acddf0c27a458bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5048d7fa9dc6d6638abb7906e08cc492/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5048d7fa9dc6d6638abb7906e08cc492/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0dbae19cacbb8cbb9e6d591903f04a5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0dbae19cacbb8cbb9e6d591903f04a5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/726aa04baae1397ab7346ac3e1420489/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/726aa04baae1397ab7346ac3e1420489/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/971a7eb30b872643526a7fb33266e126/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/971a7eb30b872643526a7fb33266e126/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a65f084431e90327dfed5b2fb7a573ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a65f084431e90327dfed5b2fb7a573ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/61cd9976fd366bc509438a73904af5e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/61cd9976fd366bc509438a73904af5e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/34b51f5927c06542a7e704c181d5e93a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/34b51f5927c06542a7e704c181d5e93a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/11048f3a53ee358693a8351739c9a92e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/11048f3a53ee358693a8351739c9a92e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/02b196065203afd7d51adbeded4ff5bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/02b196065203afd7d51adbeded4ff5bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/75001e6c440bedd45cc32aec76320511/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/75001e6c440bedd45cc32aec76320511/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b07b418a20706bc1f58fbbdb06e5097/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/1b07b418a20706bc1f58fbbdb06e5097/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/8ba2fced3a2363f6806e1d4c1779e81b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/8ba2fced3a2363f6806e1d4c1779e81b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a3a650d30eb3c3f8ab66f0feaadf4649/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a3a650d30eb3c3f8ab66f0feaadf4649/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/766b1646fd8533d938e195b6555f2362/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/766b1646fd8533d938e195b6555f2362/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/28628cdf1595ecc92e36948d5746283c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/28628cdf1595ecc92e36948d5746283c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/12ed70bc27e567e59ee0354bdefade2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/12ed70bc27e567e59ee0354bdefade2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3ce59b42f91d491a03ce0942451254a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3ce59b42f91d491a03ce0942451254a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6ddf26efc6b8ddf2972d353315ea561f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6ddf26efc6b8ddf2972d353315ea561f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f239289009657f8f4b1b412257135cd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/f239289009657f8f4b1b412257135cd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/476ade885b424f58836b30ddbf8f2136/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sherida/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/476ade885b424f58836b30ddbf8f2136/AndroidManifest.xml:20:5-44
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/sherida/Downloads/dynamic_cinema/android/app/src/debug/AndroidManifest.xml:6:22-64
