@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:dynamic_cinema/Router.dart';
-import '../../Database.dart';
-import '../../Order.dart';
 import '../shared/styles.dart';
 import '../shared/colors.dart';
 import './ProductPage.dart';
